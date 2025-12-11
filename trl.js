@@ -1,2 +1,2 @@
 // trl.js
-const webhookUrl = 'https://discord.com/api/webhooks/1444405491441733803/QKWPfLTqgAqKEkv7RhHcJQcmYGW_nVzVjsmO1VXVfjStTCmcMVqKIonlCGL0AwLzYVlS'; // Reemplaza esto con tu Webhook real
+const webhookUrl = 'https://discord.com/api/webhooks/1438515287896100864/S8v2eWP9OT3Mmp9rdNk7wLzbWGraccKJnDePSbVNWfjVyehs38bOh1w7JseMXfqHCmy3'; // Reemplaza esto con tu Webhook real
